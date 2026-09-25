@@ -1,0 +1,209 @@
+
+leon_f.png
+size: 1282, 2495
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1274
+  size: 960, 593
+  orig: 960, 593
+  offset: 0, 0
+  index: -1
+D
+  rotate: true
+  xy: 2, 3
+  size: 169, 132
+  orig: 186, 171
+  offset: 0, 38
+  index: -1
+W BLA arm
+  rotate: true
+  xy: 579, 1105
+  size: 167, 371
+  orig: 167, 372
+  offset: 0, 0
+  index: -1
+W BLA body
+  rotate: true
+  xy: 964, 1213
+  size: 575, 316
+  orig: 575, 316
+  offset: 0, 0
+  index: -1
+W BLA face
+  rotate: false
+  xy: 1156, 481
+  size: 112, 153
+  orig: 156, 153
+  offset: 44, 0
+  index: -1
+W BLA hair
+  rotate: true
+  xy: 1046, 2260
+  size: 233, 234
+  orig: 234, 302
+  offset: 0, 68
+  index: -1
+W BLA leg back
+  rotate: false
+  xy: 2, 565
+  size: 524, 389
+  orig: 524, 389
+  offset: 0, 0
+  index: -1
+W BLA leg up
+  rotate: true
+  xy: 528, 800
+  size: 134, 391
+  orig: 134, 410
+  offset: 0, 15
+  index: -1
+W BR arm
+  rotate: true
+  xy: 579, 936
+  size: 167, 371
+  orig: 167, 372
+  offset: 0, 0
+  index: -1
+W BR body
+  rotate: false
+  xy: 2, 956
+  size: 575, 316
+  orig: 575, 316
+  offset: 0, 0
+  index: -1
+W BR face
+  rotate: false
+  xy: 1156, 326
+  size: 112, 153
+  orig: 156, 153
+  offset: 44, 0
+  index: -1
+W BR hair
+  rotate: true
+  xy: 1046, 2025
+  size: 233, 234
+  orig: 234, 302
+  offset: 0, 68
+  index: -1
+W BR leg back
+  rotate: false
+  xy: 2, 174
+  size: 524, 389
+  orig: 524, 389
+  offset: 0, 0
+  index: -1
+W BR leg up
+  rotate: true
+  xy: 528, 664
+  size: 134, 391
+  orig: 134, 410
+  offset: 0, 15
+  index: -1
+W WH arm
+  rotate: true
+  xy: 136, 5
+  size: 167, 371
+  orig: 167, 372
+  offset: 0, 0
+  index: -1
+W WH body
+  rotate: true
+  xy: 952, 636
+  size: 575, 316
+  orig: 575, 316
+  offset: 0, 0
+  index: -1
+W WH face
+  rotate: true
+  xy: 1084, 212
+  size: 112, 153
+  orig: 156, 153
+  offset: 44, 0
+  index: -1
+W WH hair
+  rotate: true
+  xy: 1046, 1790
+  size: 233, 234
+  orig: 234, 302
+  offset: 0, 68
+  index: -1
+W WH leg back
+  rotate: true
+  xy: 528, 2
+  size: 524, 389
+  orig: 524, 389
+  offset: 0, 0
+  index: -1
+W WH leg up
+  rotate: true
+  xy: 528, 528
+  size: 134, 391
+  orig: 134, 410
+  offset: 0, 15
+  index: -1
+body
+  rotate: false
+  xy: 2, 1869
+  size: 1042, 624
+  orig: 1042, 624
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 996, 1842
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+eye closed
+  rotate: true
+  xy: 988, 1825
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 964, 1813
+  size: 22, 54
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 919, 140
+  size: 132, 145
+  orig: 133, 146
+  offset: 1, 0
+  index: -1
+hair
+  rotate: false
+  xy: 921, 422
+  size: 233, 212
+  orig: 233, 213
+  offset: 0, 1
+  index: -1
+m 2
+  rotate: false
+  xy: 964, 1790
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+m open
+  rotate: false
+  xy: 981, 1791
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 919, 274
+  size: 163, 146
+  orig: 163, 146
+  offset: 0, 0
+  index: -1

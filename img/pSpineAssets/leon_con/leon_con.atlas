@@ -1,0 +1,104 @@
+
+leon_con.png
+size: 2775, 761
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 1345, 757
+  orig: 1345, 757
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1349, 114
+  size: 624, 645
+  orig: 624, 645
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1975, 114
+  size: 624, 645
+  orig: 624, 645
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 1394, 20
+  size: 34, 27
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 1349, 27
+  size: 43, 20
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 1349, 49
+  size: 91, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1
+eyebrow2
+  rotate: false
+  xy: 1349, 80
+  size: 102, 32
+  orig: 102, 34
+  offset: 0, 1
+  index: -1
+face2
+  rotate: true
+  xy: 2601, 22
+  size: 141, 165
+  orig: 152, 165
+  offset: 1, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2601, 165
+  size: 163, 176
+  orig: 163, 177
+  offset: 0, 1
+  index: -1
+handL
+  rotate: false
+  xy: 2601, 547
+  size: 169, 212
+  orig: 169, 212
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 2601, 343
+  size: 172, 202
+  orig: 172, 202
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 1349, 10
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+m open
+  rotate: false
+  xy: 1501, 94
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+m smile
+  rotate: false
+  xy: 1453, 92
+  size: 46, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1

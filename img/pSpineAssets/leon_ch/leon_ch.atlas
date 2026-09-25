@@ -1,0 +1,118 @@
+
+leon_ch.png
+size: 1419, 1256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 721
+  size: 533, 757
+  orig: 533, 757
+  offset: 0, 0
+  index: -1
+W BLA
+  rotate: true
+  xy: 640, 234
+  size: 363, 634
+  orig: 363, 634
+  offset: 0, 0
+  index: -1
+W BLA arm
+  rotate: true
+  xy: 1127, 723
+  size: 264, 228
+  orig: 264, 228
+  offset: 0, 0
+  index: -1
+W BR
+  rotate: false
+  xy: 761, 618
+  size: 364, 636
+  orig: 364, 636
+  offset: 0, 0
+  index: -1
+W BR arm
+  rotate: true
+  xy: 1127, 989
+  size: 265, 229
+  orig: 265, 229
+  offset: 0, 0
+  index: -1
+W WH
+  rotate: true
+  xy: 2, 355
+  size: 364, 636
+  orig: 364, 636
+  offset: 0, 0
+  index: -1
+W WH arm
+  rotate: false
+  xy: 1057, 3
+  size: 265, 229
+  orig: 265, 229
+  offset: 0, 0
+  index: -1
+arm L
+  rotate: true
+  xy: 621, 18
+  size: 214, 434
+  orig: 214, 442
+  offset: 0, 8
+  index: -1
+arm R
+  rotate: false
+  xy: 1357, 835
+  size: 60, 152
+  orig: 64, 169
+  offset: 4, 17
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 351, 617
+  orig: 354, 617
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1357, 804
+  size: 29, 18
+  orig: 32, 25
+  offset: 2, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 621, 309
+  size: 44, 16
+  orig: 46, 18
+  offset: 0, 2
+  index: -1
+face c
+  rotate: false
+  xy: 640, 599
+  size: 114, 120
+  orig: 119, 120
+  offset: 3, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1276, 546
+  size: 175, 136
+  orig: 175, 138
+  offset: 0, 0
+  index: -1
+m grin
+  rotate: true
+  xy: 621, 280
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+m open
+  rotate: true
+  xy: 621, 256
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
